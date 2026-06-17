@@ -80,13 +80,10 @@ A `TransformationController` that gives the developer programmatic read and writ
 ---
 
 ## App Screenshot
+<img width="243" height="317" alt="image" src="https://github.com/user-attachments/assets/71a4b0b0-bc27-4947-a225-84b827d429c4" />
+<img width="242" height="268" alt="image" src="https://github.com/user-attachments/assets/28d30672-0b60-4482-b9e9-5a3d68618281" />
+<img width="238" height="275" alt="image" src="https://github.com/user-attachments/assets/f4ae9871-bf17-4712-8e1b-508aec49d339" />
 
-> _(Screenshot of the home menu and all three demo screens)_
-
-<!-- Replace the line below with your actual screenshot once you take one -->
-![App Screenshot](screenshot.png)
-
----
 
 ## Project Structure
 
@@ -98,23 +95,3 @@ lib/
     ├── BasicZoomScreen.dart   # Example 1 — minScale / maxScale
     ├── PanGridScreen.dart     # Example 2 — boundaryMargin
     └── ControllerScreen.dart  # Example 3 — transformationController
-```
-
----
-
-## Sources
-
-- Flutter official docs — [InteractiveViewer class](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html)
-- Flutter official docs — [TransformationController](https://api.flutter.dev/flutter/widgets/TransformationController-class.html)
-- Sample images from [picsum.photos](https://picsum.photos)
-
----
-
-## Commit History Note
-
-Commits are structured by feature:
-- `init: project setup and home menu`
-- `feat: add BasicZoomScreen (Example 1)`
-- `feat: add PanGridScreen (Example 2)`
-- `feat: add ControllerScreen with TransformationController (Example 3)`
-- `docs: add README with attributes, run instructions, and screenshot`
