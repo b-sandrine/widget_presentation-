@@ -1,8 +1,7 @@
 # InteractiveViewer Widget
 
-> A built-in Flutter widget that lets users pan, zoom, and rotate any child widget using touch gestures, note, no packages required.
+A built-in Flutter widget that lets users pan, zoom, and rotate any child widget using touch gestures, note, no packages required.
 
----
 
 ## What This App Does
 
